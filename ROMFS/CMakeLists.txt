@@ -28,7 +28,7 @@
 # LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN
 # ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 # POSSIBILITY OF SUCH DAMAGE.
-#
+
 ############################################################################
 
 set(romfs_src_dir ${PX4_SOURCE_DIR}/ROMFS/${config_romfs_root})
