@@ -125,7 +125,7 @@ These boards are nor maintained by PX4 team nor Manufacturer, and is not guarant
 
 ## Project Roadmap
 
-**Note: Outdated**
+*Note: Outdated*
 
 A high level project roadmap is available [here](https://github.com/orgs/PX4/projects/25).
 
